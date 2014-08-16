@@ -53,3 +53,5 @@ switch ($input1) {
 		echo "its a tie!";
 	}
 }
+
+?>
